@@ -1,0 +1,22 @@
+{
+  "name": "pw-tests-mcp",
+  "version": "1.0.0",
+  "description": "��#\u0000 \u0000p\u0000w\u0000-\u0000t\u0000e\u0000s\u0000t\u0000s\u0000-\u0000m\u0000c\u0000p\u0000\r\u0000 \u0000\r\u0000 \u0000n\u0000p\u0000m\u0000 \u0000i\u0000n\u0000i\u0000t\u0000 \u0000p\u0000l\u0000a\u0000y\u0000w\u0000r\u0000i\u0000g\u0000h\u0000t\u0000@\u0000l\u0000a\u0000t\u0000e\u0000s\u0000t\u0000\r\u0000 \u0000\r\u0000 \u0000\r\u0000 \u0000",
+  "main": "index.js",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/barry07/pw-tests-mcp.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/barry07/pw-tests-mcp/issues"
+  },
+  "homepage": "https://github.com/barry07/pw-tests-mcp#readme",
+  "devDependencies": {
+    "@playwright/test": "^1.58.2",
+    "@types/node": "^25.5.0"
+  }
+}
