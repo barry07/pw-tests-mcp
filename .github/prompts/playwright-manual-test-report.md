@@ -122,7 +122,7 @@ Overall quality assessment.
 
 Generate a markdown file in:
 
-manual-tests/test-report-[date].md
+tests/test-report-[date].md
 
 Include:
 - Findings
